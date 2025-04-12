@@ -8,3 +8,5 @@ Lab 03 Homework: https://github.com/alejandracardonavelasco/ML-/blob/main/Lab3.i
 Lab 04 Homework: https://github.com/alejandracardonavelasco/ML-/blob/main/Lab4.ipynb
 
 Lab 05 Homework: https://github.com/alejandracardonavelasco/ML-/blob/main/Lab5.ipynb
+
+Lab 06 Homework: https://github.com/alejandracardonavelasco/ML-/blob/main/Lab6.ipynb
