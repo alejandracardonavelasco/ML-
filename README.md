@@ -15,4 +15,4 @@ Lab 07 Homework: https://github.com/alejandracardonavelasco/ML-/blob/main/Lab7.i
 
 Lab 08 Homework: https://github.com/alejandracardonavelasco/ML-/blob/main/Lab8.ipynb
 - Video ellipse with l_1 norm: https://github.com/alejandracardonavelasco/ML-/blob/main/ellipse_l1.mp4
-- Video ellipse with l_inf norm:  
+- Video ellipse with l_inf norm:  https://github.com/alejandracardonavelasco/ML-/blob/main/ellipse_linf.mp4
