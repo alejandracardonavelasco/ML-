@@ -17,7 +17,7 @@ Lab 08 Homework: https://github.com/alejandracardonavelasco/ML-/blob/main/Lab8.i
 - Video ellipse with l_1 norm: https://github.com/alejandracardonavelasco/ML-/blob/main/ellipse_l1.mp4
 - Video ellipse with l_inf norm:  https://github.com/alejandracardonavelasco/ML-/blob/main/ellipse_linf.mp4
 
-Lab 09 Homework:
+Lab 09 Homework: https://github.com/alejandracardonavelasco/ML-/blob/main/Lab9.ipynb
 - Video task 1: https://github.com/alejandracardonavelasco/ML-/blob/main/dreams.mp4
 - Video task 2: https://github.com/alejandracardonavelasco/ML-/blob/main/dreams2.mp4
 - Video task 3 with lambda=0.001: https://github.com/alejandracardonavelasco/ML-/blob/main/dream_lambda_0.001.mp4
