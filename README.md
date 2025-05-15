@@ -25,3 +25,11 @@ Lab 09 Homework: https://github.com/alejandracardonavelasco/ML-/blob/main/Lab9.i
 - Video task 3 with lambda=0.1: https://github.com/alejandracardonavelasco/ML-/blob/main/dream_lambda_0.100.mp4
 - Video task 3 with lambda=1: https://github.com/alejandracardonavelasco/ML-/blob/main/dream_lambda_1.000.mp4
 - Video task 3 with lambda=10: https://github.com/alejandracardonavelasco/ML-/blob/main/dream_lambda_10.000.mp4
+
+Lab 10 Homework: https://github.com/alejandracardonavelasco/ML-/blob/main/Lab10.ipynb
+- Video task 1 without L2: https://github.com/alejandracardonavelasco/ML-/blob/main/dreams_hw10.mp4
+- Video task 1 with lambda=0.001: https://github.com/alejandracardonavelasco/ML-/blob/main/dream_lambda_0.001_hw10.mp4
+- Video task 1 with lambda=0.01: https://github.com/alejandracardonavelasco/ML-/blob/main/dream_lambda_0.010_hw10.mp4
+- Video task 1 with lambda=0.1: https://github.com/alejandracardonavelasco/ML-/blob/main/dream_lambda_0.100_hw10.mp4
+- Video task 1 with lambda=1: https://github.com/alejandracardonavelasco/ML-/blob/main/dream_lambda_1.000_hw10.mp4
+- Video task 1 with lambda=10: https://github.com/alejandracardonavelasco/ML-/blob/main/dream_lambda_10.000_hw10.mp4
