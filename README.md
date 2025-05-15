@@ -33,3 +33,6 @@ Lab 10 Homework: https://github.com/alejandracardonavelasco/ML-/blob/main/Lab10.
 - Video task 1 with lambda=0.1: https://github.com/alejandracardonavelasco/ML-/blob/main/dream_lambda_0.100_hw10.mp4
 - Video task 1 with lambda=1: https://github.com/alejandracardonavelasco/ML-/blob/main/dream_lambda_1.000_hw10.mp4
 - Video task 1 with lambda=10: https://github.com/alejandracardonavelasco/ML-/blob/main/dream_lambda_10.000_hw10.mp4
+- Video task 2 with lambda=0: https://github.com/alejandracardonavelasco/ML-/blob/main/task2_lambda_0.mp4
+- Video task 2 with lambda=0.1: https://github.com/alejandracardonavelasco/ML-/blob/main/task2_lambda_0.1.mp4
+- Video task 2 with lambda=10: https://github.com/alejandracardonavelasco/ML-/blob/main/task2_lambda_10.mp4
