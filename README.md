@@ -38,3 +38,7 @@ Lab 10 Homework: https://github.com/alejandracardonavelasco/ML-/blob/main/Lab10.
 - Video task 2 with lambda=10: https://github.com/alejandracardonavelasco/ML-/blob/main/task2_lambda_10.mp4
 
 Lab 11 Homework: https://github.com/alejandracardonavelasco/ML-/blob/main/Lab11.ipynb
+
+Lab 12 Homework: https://github.com/alejandracardonavelasco/ML-/blob/main/Lab12.ipynb
+In case the notebook doesn't open in GithHub, here is the link to the Collab Notebook:
+    https://colab.research.google.com/drive/1a460AU6CVAzX8dqQAiT1lFeuOwLNeoRE?usp=sharing
